@@ -55,3 +55,19 @@ var data = {
     }
   ]
 }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40107417106628,
+          37.79854349653181
+        ]
+      }
+    }
+  ]
+}
