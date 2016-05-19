@@ -56,9 +56,6 @@ var data = {
   ]
 }
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "Name": 5
