@@ -60,7 +60,9 @@ var data = {
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Name": 5
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
