@@ -1,70 +1,59 @@
-var data = {
+{
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "Name": 1
+        "Name": "Work",
+        "Number": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.81371879577635,
-          39.52973133987831
+          -122.27156907320024,
+          37.806139045209385
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": 2
+        "Name": "Fruitvale BART",
+        "Number": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.81816053390504,
-          39.529135530748114
+          -122.22467601299287,
+          37.775135225189295
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": 3
+        "Name": "Dimond",
+        "Number": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.81648683547974,
-          39.524137152814056
+          -122.21619486808777,
+          37.80031529592867
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": 4
+        "Name": "Home",
+        "Number": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.81037139892577,
-          39.526470877354704
-        ]
-      }
-    }
-  ]
-}
-{
-      "type": "Feature",
-      "properties": {
-        "Name": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.40107417106628,
-          37.79854349653181
+          -122.2211891412735,
+          37.78948249440369
         ]
       }
     }
