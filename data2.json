@@ -17,7 +17,7 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "Name": "Fruitvale BART2",
+        "Name": "Fruitvale BART",
       },
       "geometry": {
         "type": "Point",
