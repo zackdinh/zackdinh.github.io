@@ -30,7 +30,7 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "Name": "Dimond2",
+        "Name": "Dimond",
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "Name": "Home2",
+        "Name": "Home",
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +59,7 @@ var data = {
         "Name": "polygon"
       },
       "geometry": {
-        "type": "Polygon2",
+        "type": "Polygon",
         "coordinates": [
           [
             [
