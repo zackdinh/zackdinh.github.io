@@ -69,29 +69,6 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "name": "Lakeshore Ave"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.24221765995026,
-            37.81153853052239
-          ],
-          [
-            -122.24321007728578,
-            37.81102572353291
-          ],
-          [
-            -122.24614441394804,
-            37.81004671848114
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "polygon"
       },
       "geometry": {
