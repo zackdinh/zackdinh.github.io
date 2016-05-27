@@ -4,7 +4,7 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "Name": "Work",
+        "Name": "Work2",
       },
       "geometry": {
         "type": "Point",
