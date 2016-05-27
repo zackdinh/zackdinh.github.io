@@ -56,19 +56,6 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "name": "Trader Joes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.24420785903929,
-          37.809737333233116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "polygon"
       },
       "geometry": {
@@ -107,6 +94,42 @@ var data = {
               -122.24795222282408,
               37.81130967495062
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Trader Joes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24420785903929,
+          37.809737333233116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lakeshore Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.24221765995026,
+            37.81153853052239
+          ],
+          [
+            -122.24321007728578,
+            37.81102572353291
+          ],
+          [
+            -122.24614441394804,
+            37.81004671848114
           ]
         ]
       }
