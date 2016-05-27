@@ -18,10 +18,10 @@
 }
 	).addTo(mymap);
 	var mapdata = L.geoJson(data, {
-    style: function (feature) {
+    style: function (feature, polygon, multiPolygon) {
         return {color: feature.properties.color};
     },
-    onEachFeature: function (feature, layer) {
+    onEachFeature: function (feature, layer, polygon, multiPolygon) {
         layer.bindPopup(String(feature.properties.Name));
     }
 }).addTo(mymap);
