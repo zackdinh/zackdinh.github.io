@@ -12,10 +12,16 @@
 	<script type="text/javascript">
 
 	var mymap = L.map('mapid').setView([37.80184969073116, -122.25894927978514], 13);
-	var Thunderforest_Transport = L.tileLayer('http://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png', {
-	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	
+	var Thunderforest_Pioneer = L.tileLayer('https://[abc].tile.thunderforest.com/pioneer/{z}/{x}/{y}.png',{
 	maxZoom: 19
 }
+	
+	/*var Thunderforest_Transport = L.tileLayer('http://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png', {
+	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	maxZoom: 19
+}*/
+
 	).addTo(mymap);
 	var mapdata = L.geoJson(data, {
     style: function (feature) {
