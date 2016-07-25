@@ -56,7 +56,7 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "Name": "polygon"
+        "Name": "Park"
       },
       "geometry": {
         "type": "Polygon",
